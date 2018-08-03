@@ -18,7 +18,7 @@ please make sure deploy pc and mobile devices are connected to the same LAN/wifi
 
 
 user id on mobile apps: user001
-ip address: *follow the server ip address*
+<br>ip address: *follow the server ip address*
 
 
 
