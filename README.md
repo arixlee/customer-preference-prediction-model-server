@@ -27,3 +27,5 @@ android app source code: https://github.com/arixlee/customer-preference-predicti
 <br>demo video link: https://drive.google.com/open?id=1aJPlYCPQ_t8MT0g20JbY0WvI3EwM57rH
 
 
+<a href="https://ibb.co/k9rTYz"><img src="https://preview.ibb.co/mZj46K/sc1.png" alt="sc1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/m26vDz/sc2.png" alt="sc2" border="0"></a>
