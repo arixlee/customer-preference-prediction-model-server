@@ -29,3 +29,4 @@ android app source code: https://github.com/arixlee/customer-preference-predicti
 
 Algorithm tested in the project<br>
 ![alt text](https://drive.google.com/open?id=17TA8ps_NkPkHNDyakpb25LO-ojzA62eN)
+
