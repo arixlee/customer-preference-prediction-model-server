@@ -25,3 +25,7 @@ ip address: *follow the server ip address*
 
 android app source code: https://github.com/arixlee/customer-preference-prediction-model-android-app
 <br>demo video link: https://drive.google.com/open?id=1aJPlYCPQ_t8MT0g20JbY0WvI3EwM57rH
+
+
+Algorithm tested in the project<br>
+![alt text](https://drive.google.com/open?id=17TA8ps_NkPkHNDyakpb25LO-ojzA62eN)
