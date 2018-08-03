@@ -2,7 +2,7 @@
 study customer activity history and predict customer preference with likelihood figure. Suggest relevant topic to customer.
 
 
-************please deploy with python 3.6 version*************************
+##please deploy with python 3.6 version
 
 please make sure deploy pc and mobile devices are connected to the same LAN/wifi.
 
